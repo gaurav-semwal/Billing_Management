@@ -1,79 +1,42 @@
-This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
+# Billing Management
 
-# Getting Started
+## Project Overview
+Billing_Management is a comprehensive solution for managing expenses and invoices. This repository includes the entire codebase for an application designed to streamline the process of tracking expenses, generating invoices, and managing financial transactions efficiently.
 
->**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
+## Features
+### Expense Management
+- **Expense Tracking**: Easily track all your expenses and manage your financial records.
+- **Expense Adjustment**: Adjust expenses as per your usage and requirements.
+- **Expense Reports**: Generate detailed reports of your expenses for better financial planning.
 
-## Step 1: Start the Metro Server
+### Invoice Management
+- **Generate Invoices**: Create invoices for both admin and customer interactions.
+- **Download Invoices**: Users can download their bill invoices for record-keeping.
+- **Share Invoices**: Share invoices easily with customers and other stakeholders.
 
-First, you will need to start **Metro**, the JavaScript _bundler_ that ships _with_ React Native.
+### Dashboard
+- **Expense Overview**: View all your expenses in a consolidated dashboard.
+- **Sales Overview**: Track total sales and expenses in a single place.
 
-To start Metro, run the following command from the _root_ of your React Native project:
+### Profile and Settings
+- **Profile Management**: Users can select their profile image or use initials generated from their name.
+- **Settings Customization**: Customize settings to fit personal preferences and business needs.
 
-```bash
-# using npm
-npm start
+### API Integrations
+- **Expense Sales Management**: New APIs for managing and adding expense sales.
+- **User Data Management**: Edit and delete functionalities for saved user data.
 
-# OR using Yarn
-yarn start
-```
+### Bug Fixes and Performance Improvements
+- **Minor Bugs**: Fixed various minor bugs to improve the overall performance and stability of the app.
 
-## Step 2: Start your Application
+## Additional Notes
+- **Profile Icon**: Updated the profile icon on the settings screen.
+- **User Experience**: Enhanced user experience by providing more intuitive and user-friendly features.
+- **Functionality and Responsiveness**: Improved the overall functionality and responsiveness of the app.
 
-Let Metro Bundler run in its _own_ terminal. Open a _new_ terminal from the _root_ of your React Native project. Run the following command to start your _Android_ or _iOS_ app:
+---
 
-### For Android
+## About the Developer
+This application is developed by **GAURAV SEMWAL**, a software engineer specializing in React Native, aiming to provide robust and user-friendly applications to enhance productivity and financial management.
 
-```bash
-# using npm
-npm run android
-
-# OR using Yarn
-yarn android
-```
-
-### For iOS
-
-```bash
-# using npm
-npm run ios
-
-# OR using Yarn
-yarn ios
-```
-
-If everything is set up _correctly_, you should see your new app running in your _Android Emulator_ or _iOS Simulator_ shortly provided you have set up your emulator/simulator correctly.
-
-This is one way to run your app — you can also run it directly from within Android Studio and Xcode respectively.
-
-## Step 3: Modifying your App
-
-Now that you have successfully run the app, let's modify it.
-
-1. Open `App.tsx` in your text editor of choice and edit some lines.
-2. For **Android**: Press the <kbd>R</kbd> key twice or select **"Reload"** from the **Developer Menu** (<kbd>Ctrl</kbd> + <kbd>M</kbd> (on Window and Linux) or <kbd>Cmd ⌘</kbd> + <kbd>M</kbd> (on macOS)) to see your changes!
-
-   For **iOS**: Hit <kbd>Cmd ⌘</kbd> + <kbd>R</kbd> in your iOS Simulator to reload the app and see your changes!
-
-## Congratulations! :tada:
-
-You've successfully run and modified your React Native App. :partying_face:
-
-### Now what?
-
-- If you want to add this new React Native code to an existing application, check out the [Integration guide](https://reactnative.dev/docs/integration-with-existing-apps).
-- If you're curious to learn more about React Native, check out the [Introduction to React Native](https://reactnative.dev/docs/getting-started).
-
-# Troubleshooting
-
-If you can't get this to work, see the [Troubleshooting](https://reactnative.dev/docs/troubleshooting) page.
-
-# Learn More
-
-To learn more about React Native, take a look at the following resources:
-
-- [React Native Website](https://reactnative.dev) - learn more about React Native.
-- [Getting Started](https://reactnative.dev/docs/environment-setup) - an **overview** of React Native and how setup your environment.
-- [Learn the Basics](https://reactnative.dev/docs/getting-started) - a **guided tour** of the React Native **basics**.
-- [Blog](https://reactnative.dev/blog) - read the latest official React Native **Blog** posts.
-- [`@facebook/react-native`](https://github.com/facebook/react-native) - the Open Source; GitHub **repository** for React Native.
+---
