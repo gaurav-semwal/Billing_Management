@@ -43,19 +43,20 @@ This application is developed by **GAURAV SEMWAL**, a software engineer speciali
 
 ## Screenshots
 
-1. <img src="https://github.com/user-attachments/assets/3f4ba68c-cd9a-422f-837a-da4dc8973565" alt="Screenshot 1" width="250">
-   - This screenshot shows the updated Settings screen with profile image selection.
+1. <img src="https://github.com/user-attachments/assets/a90fa53b-4ff2-4ec6-9a7b-e83c077d8ad6" alt="Screenshot 1" width="250">
+   - A glimpse of the Dashboard across the various screens.
 
-2. <img src="https://github.com/user-attachments/assets/a7a15bf6-45ba-41e7-9f18-c938ade147af" alt="Screenshot 5" width="250">
-   - New APIs integrated for managing expense sales and user data.
+2. <img src="https://github.com/user-attachments/assets/2e018f07-6139-441d-a6d2-4f9c494ba838" alt="Screenshot 2" width="250">
+   - Add Expenses Screen to add the new expenses.
 
-3. <img src="https://github.com/user-attachments/assets/60847be9-9c50-4e20-8169-a210a527aa07" alt="Screenshot 6" width="250">
-   - Enhanced responsiveness across different platforms.
+3. <img src="https://github.com/user-attachments/assets/ec3b6be2-2385-4488-a858-affb0279ae24" alt="Screenshot 3" width="250">
+   - Invoice Screen to Add new Invoice and manage or edit the invoice according to the user.
 
-4. <img src="https://github.com/user-attachments/assets/8eac51d9-7820-4e64-8552-27272b81d06d" alt="Screenshot 3" width="250">
-   - A glimpse of the UI improvements across various screens.
+4. <img src="https://github.com/user-attachments/assets/3f4ba68c-cd9a-422f-837a-da4dc8973565" alt="Screenshot 4" width="250">
+   - This screenshot shows the Updated profile icon and initials display on the profile picture area and also the updated Setting screen.
 
-5. <img src="https://github.com/user-attachments/assets/ba45bb9f-fa9e-476f-b8a8-3f9fccd99611" alt="Screenshot 4" width="250">
-   - Updated profile icon and initials display on the profile picture area.
+5. <img src="https://github.com/user-attachments/assets/ba45bb9f-fa9e-476f-b8a8-3f9fccd99611" alt="Screenshot 5" width="250">
+   - Updated Setting screen.
 
 ---
+
